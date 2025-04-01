@@ -1,2 +1,2 @@
 # buckets.github.io
-Eindopdracht Webs Scripting
+Eindopdracht Web Scripting
